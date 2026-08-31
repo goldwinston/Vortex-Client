@@ -1,8 +1,20 @@
 # 👾 Stalcraft External ESP + Aimbot [Matrix Fixed]
 
-![GitHub stars](https://img.shields.io/github/stars/goldwinston/Vortex-Client?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/goldwinston/Vortex-Client?style=for-the-badge)
-![GitHub license](https://img.shields.io/github/license/goldwinston/Vortex-Client?style=for-the-badge)
+<div align="center">
+
+# 🚀 STALCRAFT EXTERNAL ESP + AIMBOT
+
+<br>
+
+| **VERSION** | **STATUS** | **ESP VISION** | **PLAYERS** | **PERFECT AIM** |
+| :---: | :---: | :---: | :---: | :---: |
+| **2026.09.01** | ✅ **ALL WORKING** | 🔥 **ULTRA** | **2.4K+** | 🎯 **100%** |
+
+<br>
+
+> ## ⚡ **FREE DOWNLOAD** ⚡
+
+</div>
 
 > **⚠️ DISCLAIMER:** This project was created for educational purposes only. Using this in online games violates the EULA and may result in a permanent ban. The author is not responsible for any consequences.
 
