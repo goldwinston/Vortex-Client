@@ -2,7 +2,7 @@
 
 <div align="center">
 
-#№ 🚀 STALCRAFT EXTERNAL ESP + AIMBOT
+## 🚀 STALCRAFT EXTERNAL ESP + AIMBOT
 
 <br>
 
@@ -68,7 +68,7 @@ Before using this cheat, make sure you meet these **strict requirements**:
 > Follow these steps **exactly** as written. If you skip a step, the cheat will NOT work.
 
 ### Step 1: Download the files
-- Download the archive from the **Releases** section or compile the source (`virelex.dll` + `overlay-acceptor.exe`).
+- Download the exe file from the **Releases** section or compile the source (`Vortex.exe`).
 - Download any injector (e.g., [Extreme Injector](https://github.com/master131/ExtremeInjector)).
 
 ### Step 2: Disable antivirus (MANDATORY!)
@@ -78,13 +78,13 @@ Before using this cheat, make sure you meet these **strict requirements**:
 - If you have a third-party antivirus, temporarily disable it.
 
 ### Step 3: Run as Administrator (MANDATORY!)
-- **Right-click** on `overlay-acceptor.exe` → **Run as administrator**.
+- **Right-click** on `Vortex.exe` → **Run as administrator**.
 - Wait for the console message: `"Connecting to shared data..."`.
 - **Right-click** on your injector → **Run as administrator**.
 
 ### Step 4: Inject
 1.  Launch **Stalcraft** (windowed or fullscreen).
-2.  Open your injector, select the process `Stalcraft.exe`, and inject `virelex.dll`.
+2.  Open your injector, select the process `Stalcraft.exe`, and inject `Vortex.dll`.
 3.  Press **INSERT** in-game to open/close the menu.
 
 ---
@@ -126,8 +126,8 @@ The cheat hooks **OpenGL** functions:
 - `glFlush` — to render the overlay.
 
 Two processes work together:
-- `virelex.dll` — the core that intercepts API calls.
-- `overlay-acceptor.exe` — helper process that creates a transparent overlay window.
+- `Vortex.dll` — the core that intercepts API calls.
+- `Vortex.exe` — helper process that creates a transparent overlay window.
 
 ---
 
